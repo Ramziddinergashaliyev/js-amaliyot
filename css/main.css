@@ -147,9 +147,8 @@ button {
 }
 .sidebar th {
   border: 1px solid #dddddd;
-  text-align: center;
-  padding: 0px 20px;
-  padding: 8px;
+  text-align: left;
+  padding: 10px 20px;
 }
 .sidebar td {
   border: 1px solid #dddddd;
